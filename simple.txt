@@ -1,0 +1,17 @@
+1-I created local file called Git Repo
+by mkdir Git Repo
+2-created some files
+by touch trial.html 
+   touch style.css
+   touch simple.txt
+3-Edited the content
+4- git init : to create git file
+5- git add . : added all the files
+6- git commit -m " "
+7- create remote repo calles basic-ripo
+8- git remote add origin <it's link> 
+9- git push origin master
+10- then edited the comments
+11- add .
+12- commit -m" comments"
+13-git push origin master
